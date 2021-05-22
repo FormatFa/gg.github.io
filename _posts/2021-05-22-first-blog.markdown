@@ -37,7 +37,7 @@ MarkDown语法教程 [点击查看](https://markdown.com.cn/basic-syntax/links.h
 <a@qq.com>
 
 ### 图片语法
-![站点本地图片]({{ site.url }}/assets/first-blog/test_img.png)
+![站点本地图片]({{ site.github.url }}/assets/first-blog/test_img.png)
 
 
 
