@@ -52,14 +52,5 @@ a1
 <table>
 
 
-### table2
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-### delete
-~删除~。ff
-
-真好笑！ :joy:
 
